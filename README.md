@@ -59,7 +59,7 @@ Gustavo Mainchein – [@gugamainchein](https://www.instagram.com/gugamainchein) 
 
 ## Faça sua contribuição
 
-1. Realize o fork do projeto (<https://github.com/gugamainchein/serverless-framework-typescript/fork>)
+1. Realize o fork do projeto (<https://github.com/gugamainchein/address-close-specific-streets/fork>)
 2. Crie a nova feature em uma branch (`git checkout -b feature/fooBar`)
 3. Faça o commit das suas mudanças (`git commit -am 'Add some fooBar'`)
 4. Realize o push para a branch (`git push origin feature/fooBar`)
